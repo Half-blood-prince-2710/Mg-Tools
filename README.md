@@ -3,7 +3,7 @@
 ## Overview
 Mg Tools is a powerful application designed to help users manage their habits effectively. Built with ReactJS, Tailwind CSS, Redux Toolkit, and Zustand, it provides a user-friendly interface and robust state management capabilities.
 
-![Mg Tools Overview](https://github.com/Half-blood-prince-2710/Mg-Tools/blob/main/Mg-tools-HM.png)
+![Mg Tools Overview](https://github.com/Half-blood-prince-2710/Mg-Tools/blob/main/mgtools-hm.png)
 
 ## Features
 - **Habit Tracking**: Easily add, edit, and delete habits.
